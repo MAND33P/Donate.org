@@ -53,7 +53,7 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     width: 100%;
-    background: url('http://www.emro.who.int/images/stories/coronavirus/how_to_stop_covid_19.jpg') no-repeat left; 
+    background: url('banner_img.png') no-repeat left; 
     background-size: cover;
     padding: 5.75rem 0 9.35rem;
 
